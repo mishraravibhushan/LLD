@@ -1,6 +1,8 @@
-package personal.call.center;
+package music.jukebox;
 
 import java.util.Set;
+
+import personal.call.center.User;
 
 public class Jukebox {
 	private CDPlayer cdPlayer;

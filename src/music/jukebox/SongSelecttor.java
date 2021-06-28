@@ -1,4 +1,4 @@
-package personal.call.center;
+package music.jukebox;
 
 public class SongSelecttor {
 
